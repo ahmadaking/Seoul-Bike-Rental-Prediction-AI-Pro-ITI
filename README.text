@@ -1,0 +1,26 @@
+This competitions has ended! The final ranking of the teams is announced Here.
+
+Can you predict the required number of bikes for rental given information about the weather and time of the day?
+Getting Started
+
+We'd like you to create and publish the Getting Started notebook for your peers to use. By the end of the 1st week, we'll choose a public notebook that provides clear and simple instructions to load the data, train a model and make a submission to be added in this section. You can create a new notebook by going to the code tab and click on New Notebook.
+What's expected?
+
+We encourage you to do the following.
+
+    Form a team
+    Load and manipulate the data
+    Publish notebooks with your insights
+    Open a Discussion with your questions and/or findings.
+    Train one or more models
+    Submit the results and see the score on the leaderboard
+    Compare the performance of your different models
+
+Acknowledgement
+
+The dataset provided in this competition is obtained from UC Irvine Machine Learning Repository - Seoul Bike Sharing Demand Dataset.
+
+This competition is for educational purposes only.
+
+source:
+https://www.kaggle.com/competitions/seoul-bike-rental-ai-pro-iti/overview
